@@ -1,0 +1,14 @@
+{
+    "name": "Social Network blocking",
+    "version": "1.0.0",
+    "description": "Blocking distracting social networks for a calm work",
+    "manifest_version": 3,
+    "author": "Nikita Zabolotnyi",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Social Network blocking"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
